@@ -67,3 +67,15 @@ function diasHasta(final){
 | ------ | -------- | ---------- |
 | Maxi   | Burgos   | 8237489027 |
 | Tomas  | Thompson | 324262342  |
+
+# Citas
+
+Esto es un texto referente a la siguiente cita:
+
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior.
+
+> Esto es otra cita.
+
+Fin.
