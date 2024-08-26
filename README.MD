@@ -79,3 +79,9 @@ Esto es otro texto que no se relaciona con la cita anterior.
 > Esto es otra cita.
 
 Fin.
+
+# Lineas Divisorias
+
+Un texto dividido por guiones normales.
+
+---
