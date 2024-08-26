@@ -1,3 +1,5 @@
+# Cabeceras
+
 # Cabecera H1
 
 ## Cabecera H2
@@ -10,10 +12,18 @@
 
 ###### Cabecera H6
 
-## Underline 1
-
-# Underline 2
+# Formatos Emphasis
 
 - letra _italica_.
 - Formato **bold o strong**.
 - Formato ~~tachado~~.
+
+# Listas
+
+1. Esto es un item de lista ordenada.
+2. Esto es un item de lista ordenada.
+3. Esto es un item de lista ordenada.
+
+- Esto es un item de lista desordenada.
+- Esto es un item de lista desordenada.
+- Esto es un item de lista desordenada.
