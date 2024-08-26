@@ -10,4 +10,10 @@
 
 ###### Cabecera H6
 
-Esto es un testeo de readme.
+## Underline 1
+
+# Underline 2
+
+- letra _italica_.
+- Formato **bold o strong**.
+- Formato ~~tachado~~.
