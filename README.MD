@@ -32,3 +32,7 @@
 
 - <a href="http://google.com">Esto es un link HTML</a>
 - [Esto es un link en Markdown](http://google.com)
+
+# Imagenes
+
+![Logo GitHub](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
