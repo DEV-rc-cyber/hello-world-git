@@ -1,3 +1,7 @@
+# Version del README
+
+Version Actual: v1.2.2
+
 # Cabeceras
 
 # Cabecera H1
