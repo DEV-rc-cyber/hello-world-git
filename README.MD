@@ -27,3 +27,8 @@
 - Esto es un item de lista desordenada.
 - Esto es un item de lista desordenada.
 - Esto es un item de lista desordenada.
+
+# Links
+
+- <a href="http://google.com">Esto es un link HTML</a>
+- [Esto es un link en Markdown](http://google.com)
