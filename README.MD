@@ -35,4 +35,14 @@
 
 # Imagenes
 
-![Logo GitHub](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+![Logo GitHub](https://static.vecteezy.com/system/resources/thumbnails/017/119/660/small/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg)
+
+# Code Snippets
+
+Highlights
+
+```JSON
+kjfghaslkdfasklhdjlksaf
+kjsadfkjhasdfkjahsdf
+ksabgfkajshgkas
+```
